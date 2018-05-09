@@ -1,11 +1,13 @@
 # My Fedora 28 Gnome Linux
 ![Screenshot](https://github.com/nepkoder/fedora-28-gnome-linux-config/blob/master/screenshots/terminal.png)
-#### Apperance
+
+#### Apperance Setup
 - Theme - Gnome OSC HS
 - Icon - Material 1.1
 - Shell Theme - U8SUB
 - Terminal - zsh
 - Conky - System_Flair
+![Screenshot](https://github.com/nepkoder/fedora-28-gnome-linux-config/blob/master/screenshots/Themes.png)
 
 #### Gnome extension
 - Background logo (fedora)
@@ -18,15 +20,17 @@
 - Places status indicator
 - Refresh wifi connections
 - Removable drive menu
+![Screenshot](https://github.com/nepkoder/fedora-28-gnome-linux-config/blob/master/screenshots/extensions.png)
 
-#### Gnome extension
+#### Gnome Fonts Config
 - Window Title: Cantarell Bold, 11
 - Interface: Noto Sans UI Regular, 11
 - Document: Cantarell Regular 11
 - Monospace: Monospace Regular, 11
 - Scaling Factor: 0.80
+![Screenshot](https://github.com/nepkoder/fedora-28-gnome-linux-config/blob/master/screenshots/Fonts.png)
 
-#### Apps & Softwares
+#### Apps & Softwares installation
 - Eclipse
 - Idea Intellij
 - Virtual Box
@@ -44,5 +48,9 @@
 - GitKraken
 - Ramme
 - Java, Node, maven, composer, mongodb etc..
+![Screenshot](https://github.com/nepkoder/fedora-28-gnome-linux-config/blob/master/screenshots/app-menu.png)
 
 ## Screenshot
+![Screenshot](https://github.com/nepkoder/fedora-28-gnome-linux-config/blob/master/screenshots/desktop.png)
+
+
